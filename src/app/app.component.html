@@ -1,0 +1,21 @@
+
+<menu-header> </menu-header>
+
+
+<div class="main">
+  <div class="main-content responsive-wrapper">
+
+  <ul class="cards">
+    @for (category of dataObjs; track category.title) {
+      <li class="cards_item"><category-card (addDishEventEmitter)="addDishEventEmitter($event)" (removeDishEventEmitter)="removeDishEventEmitter($event)" [categoryData]="category"></category-card></li>
+    }
+    @empty {
+      <h1> No elements found!</h1>
+    }
+  </ul>
+  <button class="primary" onclick="window.dialog.showModal();">Create Grocery List</button>
+
+  <result-modal [dishes]="selectedDishes">  </result-modal>
+</div>
+</div>
+

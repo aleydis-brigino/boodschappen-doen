@@ -1,0 +1,16 @@
+<div class="card">
+  <div class="card_image">
+    <img src="{{ categoryData.image }}"/>
+  </div>
+  <div class="card_content">
+    <h2 class="card_title">{{ categoryData.title }}</h2>
+    <div class="card_text">
+
+        @for (dish of categoryData.dishes; track dish) {
+
+        <input type=checkbox (change)="onDishSelected($event.target.checked, dish)">{{dish.name}}<br>
+
+        }
+    </div>
+  </div>
+</div>

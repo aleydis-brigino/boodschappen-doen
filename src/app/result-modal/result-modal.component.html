@@ -1,0 +1,24 @@
+<dialog id="dialog">
+  <h2>Grocery List</h2>
+  <p>
+    <b>You chose the following dishes:</b><br>
+    <!-- let count/first/last/even/odd are added loop options, but we're not going to use this for now-->
+    @for (dish of dishes; track dish; let index = $index; let count = $count;
+    let first = $first; let last = $last; let even = $even; let odd = $odd) {
+      {{ index + 1 }} {{dish.name}}<br>
+    }
+    @empty {
+      no dishes were selected.<br>
+    }
+    <br>
+
+    <b>You need the following ingredients:</b><br>
+    @for (ingredient of ingredients; track ingredient) {
+      {{ingredient.ingredient || ingredient.name}}<br>
+    }
+
+  </p>
+  <br>
+  <button onclick="window.dialog.close();" aria-label="close" class="x">❌</button>
+
+</dialog>

@@ -1,0 +1,669 @@
+[
+  {
+    "title": "Pasta",
+    "image": "../assets/img/pasta-6263653_1280.jpg",
+    "dishes":
+    [
+      {
+        "name": "Aglio Olio",
+        "ingredients": [
+          {
+            "ingredient": "pasta",
+            "section": "grains",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery","market","asian"]
+          },
+          {
+            "ingredient": "chili flakes",
+            "section": "spices",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "olive oil",
+            "section": "oils",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "spring onions",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          }
+        ]
+      },
+      {
+        "name": "Sardines Pasta",
+        "ingredients": [
+          {
+            "ingredient": "spaghetti",
+            "section": "grains",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "canned sardines",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "lemon",
+            "section": "fruits",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "capers",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "olive oil",
+            "section": "condiments",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          }
+        ]
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          {
+            "ingredient": "pasta",
+            "section": "grains",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "grated cheese",
+            "section": "dairy",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "ground beef",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "paprika",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "courgette",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "onions",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "tomato sauce",
+            "section": "canned",
+            "shop": ["grocery"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Seafood",
+    "image": "../assets/img/prawns-2371440_1280.jpg",
+    "dishes":
+    [
+      {
+        "name": "Sinigang na Hipon",
+        "ingredients": [
+          {
+            "ingredient": "shrimps",
+            "section": "seafood",
+            "shop": ["grocery","market","asian"]
+          },
+          {
+            "ingredient": "tamarind paste/mix",
+            "section": "condiments",
+            "shop": ["grocery","asian"]
+          },
+          {
+            "ingredient": "spinach",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "tomato",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "eggplant",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "green beans",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "ginger",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          }
+        ]
+      },
+      {
+        "name": "Finnish Salmon Soup",
+        "ingredients": [
+          {
+            "ingredient": "salmon fillet",
+            "section": "seafood",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "fresh dill",
+            "section": "spices",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "carrots",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "potatoes",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "cooking cream",
+            "section": "dairy",
+            "shop": ["grocery"]
+          }
+        ]
+      },
+      {
+        "name": "Baked Salmon",
+        "ingredients": [
+          {
+            "ingredient": "salmon fillet",
+            "section": "seafood",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "mixed vegetables",
+            "section": "frozen",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "cooking cream",
+            "section": "dairy",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "mayonnaise",
+            "section": "condiments",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "grated cheese",
+            "section": "dairy",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "garlic powder",
+            "section": "spices",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "butter",
+            "section": "dairy",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "panko crumbs",
+            "section": "others",
+            "shop": ["grocery","asian"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chicken",
+    "image": "../assets/img/chicken-2451482_1280.jpg",
+    "dishes":
+    [
+      {
+        "name": "Arroz Caldo",
+        "ingredients": [
+          {
+            "name": "rice",
+            "section": "grain",
+            "shop": ["grocery", "asian"]
+          },
+          {
+            "name": "chicken fillet cubes",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "ginger",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "spring onions",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          }
+        ]
+      },
+      {
+        "name": "Butter Chicken",
+        "ingredients": [
+          {
+            "name": "rice",
+            "section": "grain",
+            "shop": ["grocery", "asian"]
+          },
+          {
+            "name": "chicken fillet cubes",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "ginger",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "onions",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "chickpeas",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "tomato paste",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "butter chicken spice mix",
+            "section": "spices",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "cooking cream",
+            "section": "dairy",
+            "shop": ["grocery"]
+          }
+        ]
+      },
+      {
+        "name": "Chicken Adobo",
+        "ingredients": [
+          {
+            "name": "chicken thighs",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "name": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "name": "laurel leaves",
+            "section": "spices",
+            "shop": ["grocery"]
+          },
+          {
+            "name": "soy sauce",
+            "section": "condiments",
+            "shop": ["grocery","asian"]
+          },
+          {
+            "name": "vinegar",
+            "section": "condiments",
+            "shop": ["grocery","asian"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pork",
+    "image": "../assets/img/grilled-3338463_1280.jpg",
+    "dishes":
+    [
+      {
+        "name": "Sinigang na Baboy",
+        "ingredients": [
+          {
+            "ingredient": "pork ribs",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "tamarind paste/mix",
+            "section": "condiments",
+            "shop": ["grocery","asian"]
+          },
+          {
+            "ingredient": "tomato",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "eggplant",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "green beans",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "spinach",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "onion",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          }
+        ]
+      },
+      {
+        "name": "Liempo",
+        "ingredients": [
+          {
+            "ingredient": "Pork Belly",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "soy sauce",
+            "section": "condiments",
+            "shop": ["grocery","asian"]
+          }
+        ]
+      },
+      {
+        "name": "Dong Po Pork",
+        "ingredients": [
+          {
+            "name": "Pork Belly with Skin",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "ginger",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "spring onions",
+            "section": "vegetables",
+            "shop": ["grocery", "market"]
+          },
+          {
+            "ingredient": "soy sauce",
+            "section": "condiments",
+            "shop": ["grocery", "asian"]
+          },
+          {
+            "ingredient": "sugar",
+            "section": "others",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "red wine",
+            "section": "alcohol",
+            "shop": ["grocery"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Beef",
+    "image": "../assets/img/stew-7556613_1280.jpg",
+    "dishes":
+    [
+      {
+        "name": "Kaldereta",
+        "ingredients": [
+          {
+            "ingredient": "beef chunks",
+            "section": "meats",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "liver spread",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "tomato paste",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "olives",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "grated cheese",
+            "section": "dairy",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "carrots",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "potatoes",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "onion",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "paprike",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "peas",
+            "section": "frozed",
+            "shop": ["grocery"]
+          }
+        ]
+      },
+      {
+        "name": "Steak and mashed potatoes",
+        "ingredients": [
+          {
+            "ingredient": "ribeye steak",
+            "section": "seafood",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "rosemary",
+            "section": "spices",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "potatoes",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "cooking cream",
+            "section": "dairy",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "butter",
+            "section": "dairy",
+            "shop": ["grocery"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vegetables",
+    "image": "../assets/img/salad-7637101_1280.jpg",
+    "dishes":
+    [
+      {
+        "name": "Pinakbet",
+        "ingredients": [
+          {
+            "ingredient": "shrimps",
+            "section": "seafood",
+            "shop": ["grocery","market","asian"]
+          },
+          {
+            "ingredient": "bagoong",
+            "section": "condiments",
+            "shop": ["grocery","asian"]
+          },
+          {
+            "ingredient": "okra",
+            "section": "vegetables",
+            "shop": ["grocery","market","asian"]
+          },
+          {
+            "ingredient": "squash",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "tomato",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "eggplant",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "green beans",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "ginger",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "onions",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          }
+        ]
+      },
+      {
+        "name": "Chopsuey",
+        "ingredients": [
+          {
+            "ingredient": "shrimps",
+            "section": "seafood",
+            "shop": ["grocery","market","asian"]
+          },
+          {
+            "ingredient": "oyster sauce",
+            "section": "condiments",
+            "shop": ["grocery","asian"]
+          },
+          {
+            "ingredient": "fish balls",
+            "section": "frozen",
+            "shop": ["asian"]
+          },
+          {
+            "ingredient": "paprika",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "broccoli",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "baby corn",
+            "section": "canned",
+            "shop": ["grocery"]
+          },
+          {
+            "ingredient": "cauliflower",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "green beans",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "ginger",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "garlic",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          },
+          {
+            "ingredient": "onions",
+            "section": "vegetables",
+            "shop": ["grocery","market"]
+          }
+        ]
+      }
+    ]
+  }
+]
